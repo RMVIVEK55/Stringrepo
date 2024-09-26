@@ -1,7 +1,6 @@
-[
-  {
-    "name": "John smith",
-    "email": "john.smith@gmail.com",
-    "mobile": "9842512345"
+{
+    "country": "TamilNadu#Chennai~Coimbatore~Madurai//Karnataka#Banglore~Mysore~Manglore~Mandiya//Kerala#Cochin~Alapuzha~Ernakulam~Kozhikode",
+    "first_filter": "//",
+    "second_filter": "#",
+    "third_filter": "~"
   }
-]
